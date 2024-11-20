@@ -1,0 +1,46 @@
+HTML stands for hypertext markup language.
+
+#note:extenstion of html is .html/.htm
+
+notepad      .txt
+wordpad       .rtf (rich text format)
+paint         .png
+ms word       .docx
+ms excel       .xlsx
+
+
+
+shashi.txt
+shashi.rtf
+shashi.png
+shashi.docx
+shashi.xlsx
+
+
+websites:collection of web pages
+
+#there are two types of websites are as follows:
+
+1)static website (without database)
+2)dynamic website(with database)
+
+
+tags    <    >  pre defined tags
+
+There are two types of tags are as follows:
+
+1)container tag (paired tag)
+
+<html>      opening tag
+----
+----
+</html>    closing tag
+
+2)empty tag (single tag)
+
+<br>   break line
+<hr> horizontal line
+
+
+
+
